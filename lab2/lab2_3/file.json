@@ -1,0 +1,1352 @@
+{
+  "users": [
+    {
+      "id": 10970632,
+      "id_str": "10970632",
+      "name": "Jodi Xu Klein",
+      "screen_name": "jodixu",
+      "location": "New York City",
+      "description": "Deputy Bureau Chief, WSJ Pro Bankruptcy, Wall Street Journal. @WSJBankruptcy Ex @bloomberg @WSJ @TIME Tip: jodi.klein@wsj.com",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4809,
+      "friends_count": 1077,
+      "listed_count": 251,
+      "created_at": "Sat Dec 08 14:25:25 +0000 2007",
+      "favourites_count": 2878,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 14197,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 15 20:06:13 +0000 2022",
+        "id": 1493678051389026310,
+        "id_str": "1493678051389026310",
+        "text": "Sexual abuse victims of the bankrupt Boy Scouts have a new option to get an independent review of their claims to p… https://t.co/nq9bCcNgqJ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/nq9bCcNgqJ",
+              "expanded_url": "https://twitter.com/i/web/status/1493678051389026310",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1246206140997939202/wS0IroNg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246206140997939202/wS0IroNg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10970632/1443313331",
+      "profile_link_color": "D76541",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 26704959,
+      "id_str": "26704959",
+      "name": "David Allio",
+      "screen_name": "dallio",
+      "location": "",
+      "description": "Strategist, father, son",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17,
+      "friends_count": 67,
+      "listed_count": 0,
+      "created_at": "Thu Mar 26 07:02:23 +0000 2009",
+      "favourites_count": 108,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 221,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Feb 04 02:21:16 +0000 2022",
+        "id": 1489423781181460480,
+        "id_str": "1489423781181460480",
+        "text": "@MVDatsenko @njaresko Big what? Good, bad, news? Terrible reporting.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MVDatsenko",
+              "name": "Mykhajlo Datsenko",
+              "id": 2219857820,
+              "id_str": "2219857820",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "njaresko",
+              "name": "Natalie Jaresko",
+              "id": 2243894526,
+              "id_str": "2243894526",
+              "indices": [
+                12,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1489369022491762690,
+        "in_reply_to_status_id_str": "1489369022491762690",
+        "in_reply_to_user_id": 2219857820,
+        "in_reply_to_user_id_str": "2219857820",
+        "in_reply_to_screen_name": "MVDatsenko",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1268565736903135235/yWv8xw1R_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268565736903135235/yWv8xw1R_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1104465037,
+      "id_str": "1104465037",
+      "name": "Helen Fox-O'Brien",
+      "screen_name": "hfoxobrien",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 30,
+      "friends_count": 297,
+      "listed_count": 0,
+      "created_at": "Sat Jan 19 19:24:45 +0000 2013",
+      "favourites_count": 62,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Feb 22 02:18:19 +0000 2021",
+        "id": 1363674449606770691,
+        "id_str": "1363674449606770691",
+        "text": "@Stamford_Hosp A+ vaccine experience today with most professional, friendly and caring group of HC heroes! Thank you👏👏",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Stamford_Hosp",
+              "name": "StamfordHospital",
+              "id": 847109401097981955,
+              "id_str": "847109401097981955",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1363097317713342464,
+        "in_reply_to_status_id_str": "1363097317713342464",
+        "in_reply_to_user_id": 847109401097981955,
+        "in_reply_to_user_id_str": "847109401097981955",
+        "in_reply_to_screen_name": "Stamford_Hosp",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/616316122707701761/m8HYzzfH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/616316122707701761/m8HYzzfH_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1232734150714634242,
+      "id_str": "1232734150714634242",
+      "name": "Збройні Сили України 🇺🇦",
+      "screen_name": "ArmedForcesUkr",
+      "location": "Україна Київ ",
+      "description": "СЛАВА УКРАЇНІ ТА ЇЇ ВОЇНАМ!🇺🇦\n\n                            РАЗОМ ПЕРЕМОЖЕМО!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 24267,
+      "friends_count": 54,
+      "listed_count": 111,
+      "created_at": "Wed Feb 26 18:28:33 +0000 2020",
+      "favourites_count": 8760,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5178,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 16 12:18:25 +0000 2022",
+        "id": 1493922713441906689,
+        "id_str": "1493922713441906689",
+        "text": "Вірте у Воїнів України!🇺🇦 https://t.co/RWfI4auQbF",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1493922651898880000,
+              "id_str": "1493922651898880000",
+              "indices": [
+                26,
+                49
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493922651898880000/pu/img/01gbYPTinnDD-Jff.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493922651898880000/pu/img/01gbYPTinnDD-Jff.jpg",
+              "url": "https://t.co/RWfI4auQbF",
+              "display_url": "pic.twitter.com/RWfI4auQbF",
+              "expanded_url": "https://twitter.com/ArmedForcesUkr/status/1493922713441906689/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 562,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 562,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 451,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1493922651898880000,
+              "id_str": "1493922651898880000",
+              "indices": [
+                26,
+                49
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493922651898880000/pu/img/01gbYPTinnDD-Jff.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493922651898880000/pu/img/01gbYPTinnDD-Jff.jpg",
+              "url": "https://t.co/RWfI4auQbF",
+              "display_url": "pic.twitter.com/RWfI4auQbF",
+              "expanded_url": "https://twitter.com/ArmedForcesUkr/status/1493922713441906689/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 562,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 848,
+                  "h": 562,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 451,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  424,
+                  281
+                ],
+                "duration_millis": 40240,
+                "variants": [
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1493922651898880000/pu/vid/848x562/2etOaj_Il_Op-SlX.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1493922651898880000/pu/vid/542x360/0srbnctVlFLeKVTT.mp4?tag=12"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1493922651898880000/pu/pl/La2Ty-qnFL33V1s5.m3u8?tag=12&container=fmp4"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1493922651898880000/pu/vid/406x270/sO6XrDu_1qc4kkcy.mp4?tag=12"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 189,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "uk"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1484013024604217345/o7wslzY1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484013024604217345/o7wslzY1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232734150714634242/1644828095",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 407420324,
+      "id_str": "407420324",
+      "name": "Gaby Hernández",
+      "screen_name": "gabrielhr51",
+      "location": "Camuy, PR",
+      "description": "Camuy City Mayor / Alcalde de la Cuidad de Camuy, PR USA /Presidente de la Federación de Alcaldes de PR",
+      "url": "https://t.co/H06qERuDUm",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H06qERuDUm",
+              "expanded_url": "https://en.m.wikipedia.org/wiki/Gabriel_Hernández-Rodr%C3%ADguez",
+              "display_url": "en.m.wikipedia.org/wiki/Gabriel_H…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2563,
+      "friends_count": 1020,
+      "listed_count": 4,
+      "created_at": "Tue Nov 08 02:02:19 +0000 2011",
+      "favourites_count": 6733,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3626,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 16 12:44:42 +0000 2022",
+        "id": 1493929328261963781,
+        "id_str": "1493929328261963781",
+        "text": "https://t.co/7nT2HIPuMX",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/7nT2HIPuMX",
+              "expanded_url": "https://www.metro.pr/noticias/2022/02/16/federacion-de-alcaldes-se-reune-con-pierluisi-en-la-fortaleza/",
+              "display_url": "metro.pr/noticias/2022/…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "04cb31bae3b3af93",
+          "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json",
+          "place_type": "city",
+          "name": "Miami",
+          "full_name": "Miami, FL",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -80.321683,
+                  25.7090404
+                ],
+                [
+                  -80.144974,
+                  25.7090404
+                ],
+                [
+                  -80.144974,
+                  25.855667
+                ],
+                [
+                  -80.321683,
+                  25.855667
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1359341542431932418/WvCyIW_-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359341542431932418/WvCyIW_-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/407420324/1584184745",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1053324106148524032,
+      "id_str": "1053324106148524032",
+      "name": "Ben Hodges",
+      "screen_name": "general_ben",
+      "location": "",
+      "description": "Former Commanding General @USArmyEurope, Pershing Chair @CEPA, loves FSU football @FSUFootball",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 12303,
+      "friends_count": 2430,
+      "listed_count": 162,
+      "created_at": "Fri Oct 19 16:36:51 +0000 2018",
+      "favourites_count": 5962,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2440,
+      "lang": null,
+      "status": {
+        "created_at": "Tue Feb 15 23:06:55 +0000 2022",
+        "id": 1493723526888570886,
+        "id_str": "1493723526888570886",
+        "text": "RT @ukrmed: Increased Risks. Obstruction of Traffic in the Black and Azov Seas by Russia due to the closure for \"Military Exercises\" as of…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ukrmed",
+              "name": "PEC",
+              "id": 3502489575,
+              "id_str": "3502489575",
+              "indices": [
+                3,
+                10
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 15 17:05:07 +0000 2022",
+          "id": 1493632478715727877,
+          "id_str": "1493632478715727877",
+          "text": "Increased Risks. Obstruction of Traffic in the Black and Azov Seas by Russia due to the closure for \"Military Exerc… https://t.co/NZ22RtEu5V",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/NZ22RtEu5V",
+                "expanded_url": "https://twitter.com/i/web/status/1493632478715727877",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 23,
+          "favorite_count": 35,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053327492696760322/X0xKjtU-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053327492696760322/X0xKjtU-_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1260515654811242498,
+      "id_str": "1260515654811242498",
+      "name": "Riho Terras",
+      "screen_name": "RihoTerras",
+      "location": "Brussels",
+      "description": "Member of European Parliament @EPPGroup 🇪🇪 @EP_Industry,  @EP_Agriculture. Deputy coordinator for @EP_ArtifIntel. Former Chief of Defence of Estonia.",
+      "url": "https://t.co/65VR2GBnaH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/65VR2GBnaH",
+              "expanded_url": "https://www.europarl.europa.eu/meps/en/204449/RIHO_TERRAS/home",
+              "display_url": "europarl.europa.eu/meps/en/204449…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1099,
+      "friends_count": 624,
+      "listed_count": 25,
+      "created_at": "Wed May 13 10:22:44 +0000 2020",
+      "favourites_count": 3802,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 354,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 16 12:27:16 +0000 2022",
+        "id": 1493924942345392131,
+        "id_str": "1493924942345392131",
+        "text": "RT @maldeikiene: Lithuania declared independence on this day in 1918 and fought for it hard. A nation can't defend its freedom with comprom…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "maldeikiene",
+              "name": "Aušra Maldeikienė MEP 🇱🇹🇪🇺",
+              "id": 1141647835189977088,
+              "id_str": "1141647835189977088",
+              "indices": [
+                3,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Feb 16 12:08:32 +0000 2022",
+          "id": 1493920226563473409,
+          "id_str": "1493920226563473409",
+          "text": "Lithuania declared independence on this day in 1918 and fought for it hard. A nation can't defend its freedom with… https://t.co/BIjfb3s9Qh",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/BIjfb3s9Qh",
+                "expanded_url": "https://twitter.com/i/web/status/1493920226563473409",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 19,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1280395630024839168/CRjYibXJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280395630024839168/CRjYibXJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260515654811242498/1589366288",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 1167111700186841088,
+      "id_str": "1167111700186841088",
+      "name": "Oleksiy Honcharuk",
+      "screen_name": "O__Honcharuk",
+      "location": "Kyiv, Ukraine",
+      "description": "Former Prime Minister of Ukraine (2019-2020)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11980,
+      "friends_count": 94,
+      "listed_count": 73,
+      "created_at": "Thu Aug 29 16:28:25 +0000 2019",
+      "favourites_count": 157,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 544,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 16 09:37:47 +0000 2022",
+        "id": 1493882288639287298,
+        "id_str": "1493882288639287298",
+        "text": "#StandWithUkraine today more than ever! https://t.co/scQxz95QAO",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "StandWithUkraine",
+              "indices": [
+                0,
+                17
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1493882284310728705,
+              "id_str": "1493882284310728705",
+              "indices": [
+                40,
+                63
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLtWBcyXEAE9ICV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FLtWBcyXEAE9ICV.jpg",
+              "url": "https://t.co/scQxz95QAO",
+              "display_url": "pic.twitter.com/scQxz95QAO",
+              "expanded_url": "https://twitter.com/O__Honcharuk/status/1493882288639287298/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1493882284310728705,
+              "id_str": "1493882284310728705",
+              "indices": [
+                40,
+                63
+              ],
+              "media_url": "http://pbs.twimg.com/media/FLtWBcyXEAE9ICV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FLtWBcyXEAE9ICV.jpg",
+              "url": "https://t.co/scQxz95QAO",
+              "display_url": "pic.twitter.com/scQxz95QAO",
+              "expanded_url": "https://twitter.com/O__Honcharuk/status/1493882288639287298/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1329928505442922498/-QUsgQ9n_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329928505442922498/-QUsgQ9n_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167111700186841088/1585234156",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 2313633876,
+      "id_str": "2313633876",
+      "name": "Sergey Radchenko",
+      "screen_name": "DrRadchenko",
+      "location": "Washington, Bologna, Nanjing",
+      "description": "Historian of the Cold War and after.\nWilson E. Schmidt Distinguished Professor @KissingerCenter @SAISHopkins.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 21894,
+      "friends_count": 2328,
+      "listed_count": 388,
+      "created_at": "Mon Jan 27 13:15:23 +0000 2014",
+      "favourites_count": 9018,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14660,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 16 12:05:07 +0000 2022",
+        "id": 1493919368664825857,
+        "id_str": "1493919368664825857",
+        "text": "RT @EngelsbergIdeas: Zubok's mammoth work is a provocative, honest examination of the dissolution of the Soviet empire and Gorbachev's fail…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "EngelsbergIdeas",
+              "name": "Engelsberg Ideas",
+              "id": 1265215154796576773,
+              "id_str": "1265215154796576773",
+              "indices": [
+                3,
+                19
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Feb 16 12:00:02 +0000 2022",
+          "id": 1493918089192345600,
+          "id_str": "1493918089192345600",
+          "text": "Zubok's mammoth work is a provocative, honest examination of the dissolution of the Soviet empire and Gorbachev's f… https://t.co/gNFWZ3SDXQ",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/gNFWZ3SDXQ",
+                "expanded_url": "https://twitter.com/i/web/status/1493918089192345600",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3,
+          "favorite_count": 11,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245241599321350145/BdxEl71c_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245241599321350145/BdxEl71c_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2313633876/1534918367",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    {
+      "id": 2436559146,
+      "id_str": "2436559146",
+      "name": "Maria Snegovaya",
+      "screen_name": "MSnegovaya",
+      "location": "",
+      "description": "Russia and CEE, @Columbia PhD in Poli Sci, @HSE_eng к.э.н., Adjunct Senior Fellow @CNASdc\nLooking into the abyss\nThe views expressed here are my own opinion",
+      "url": "https://t.co/yfmFF4DbSU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/yfmFF4DbSU",
+              "expanded_url": "https://mariasnegovaya.com/",
+              "display_url": "mariasnegovaya.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8135,
+      "friends_count": 2035,
+      "listed_count": 243,
+      "created_at": "Thu Apr 10 05:48:35 +0000 2014",
+      "favourites_count": 1571,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2022,
+      "lang": null,
+      "status": {
+        "created_at": "Wed Feb 16 03:36:34 +0000 2022",
+        "id": 1493791385073426435,
+        "id_str": "1493791385073426435",
+        "text": "RT @sumlenny: For understanding: pink is Russia-occupied so-called “LDNR”. Blue and yellow - free parts of Donetsk and Luhansk regions, whi…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "sumlenny",
+              "name": "Sergej Sumlenny",
+              "id": 162063442,
+              "id_str": "162063442",
+              "indices": [
+                3,
+                12
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Feb 15 12:12:37 +0000 2022",
+          "id": 1493558867506180096,
+          "id_str": "1493558867506180096",
+          "text": "For understanding: pink is Russia-occupied so-called “LDNR”. Blue and yellow - free parts of Donetsk and Luhansk re… https://t.co/ZQr2gbHBUo",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/ZQr2gbHBUo",
+                "expanded_url": "https://twitter.com/i/web/status/1493558867506180096",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 468,
+          "favorite_count": 870,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 468,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1089615713634013185/gjgkoiK4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089615713634013185/gjgkoiK4_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    }
+  ],
+  "next_cursor": 1717632294754456674,
+  "next_cursor_str": "1717632294754456674",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0",
+  "total_count": null
+}
